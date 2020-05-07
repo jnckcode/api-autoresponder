@@ -76,7 +76,7 @@ pre{
 	border-color: #27ae60;
 	padding: 7px;
 	border-radius: 4px;
-	/*overflow-x: scroll;*/
+	overflow-x: scroll;
 }
 
 #label{
