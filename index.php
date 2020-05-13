@@ -9,6 +9,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="#10ac84">
     <meta property="og:title" content="Api-AutoResponder">
     <meta property="og:url" content="https://api-autoresponder.herokuapp.com/">
+    <meta property="og:image" content="logo.png">
     <meta property="og:description" content="Rest-Api {AutoResponder For Whatsapp} By JnckCode, to build automation reply via AutoResponder apps android.">
 
 	<title>Api-AutoResponder</title>
@@ -133,20 +134,16 @@ pernah gak sih kalian menemukan ide disaat sedang menikmati berbuka puasa siang 
 <p>Dengan gabungan beberapa api-rest untuk downloader maka jadilah project ini, project yang gak jelas buat apa intinya sekedar iseng saat menghabiskan waktu #DiRumahAja, okehh.... mari saya jelaskan terkait api-rest ini : </p>
 <br>
 <div id="label">
-<label for="fb">Rest-APi for Facebook Download :</label>
+<label for="fb">Regex (rekomendasi), boleh custom sesuai selera :</label>
 <br>
-<pre>https://api-autoresponder.herokuapp.com/fb.php</pre>
+<pre>[-a-zA-Z0-9@:%_\+.~\#?&//=]{2,256}\.[a-z]{2,4}\b(\/[-a-zA-Z0-9@:%_\+.~\#?&//=]*)?</pre>
 </div>
 <div id="label">
-<label for="ig">Rest-APi for Instagram Download :</label>
+<label for="ig">Rest-APi for Instagram & Facebook Download :</label>
 <br>
-<pre>https://api-autoresponder.herokuapp.com/ig.php</pre>
+<pre>https://api-autoresponder.herokuapp.com/api.php</pre>
 </div>
-<div id="label">
-<label for="ig">Rest-APi for Youtube Download :</label>
-<br>
-<pre>https://api-autoresponder.herokuapp.com/yt.php</pre>
-</div>
+</br>
 <div id="step">
 <span id="artikel">Usage :</span><br><br>
 <p>1. Download AutoResponder For Whatsapp, lalu install !.</p>
