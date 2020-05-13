@@ -130,8 +130,8 @@ pre{
 <span id="artikel">Hello Slur !</span><br>
 <p>ini adalah project JnckCode yang menurut saya tidak berkesan, tapi paling suka diOprek ketika gabut.. hehe<br>
 pernah gak sih kalian menemukan ide disaat sedang menikmati berbuka puasa siang hari ? sama tentunya, saya juga belum pernah wkwkwk.</p>
-<p>Oke..jadi gini slur, ini project saya buat setelah gak sengaja banget liat aplikasi autoresponder for whatsapp nih, singkat cerita saya ngewe dulu agar peredaran darah lancar supaya tidak stuck saat coding. setelah berkenthu hebat saya memutuskan untuk mengolah pattern response yang sudah dibagikan oleh sang developer.</p>
-<p>Dengan gabungan beberapa api-rest untuk downloader maka jadilah project ini, project yang gak jelas buat apa intinya sekedar iseng saat menghabiskan waktu #DiRumahAja, okehh.... mari saya jelaskan terkait api-rest ini : </p>
+</br><p>Oke..jadi gini slur, ini project saya buat setelah gak sengaja banget liat aplikasi autoresponder for whatsapp nih, singkat cerita saya ngewe dulu agar peredaran darah lancar supaya tidak stuck saat coding. setelah berkenthu hebat saya memutuskan untuk mengolah pattern response yang sudah dibagikan oleh sang developer.</p>
+</br><p>Dengan gabungan beberapa api-rest untuk downloader maka jadilah project ini, project yang gak jelas buat apa intinya sekedar iseng saat menghabiskan waktu #DiRumahAja, okehh.... mari saya jelaskan terkait api-rest ini : </p>
 <br>
 <div id="label">
 <label for="fb">Regex (rekomendasi), boleh custom sesuai selera :</label>
